@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.zwin-rotate.versieA"
+    id          = "com.zwin-vliegen.versieA"
     versionCode = "10"
     version     = "1.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>zwin rotate</name>
+  <name>zwin vliegen</name>
 
   <description>
-      Test zwin rotate scratch
+      Test zwin vliegen scratch
   </description>
 
   <author href="https://www.zwincollege.nl" email="mgroosman@zwincollege.nl">
